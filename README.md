@@ -1,2 +1,2 @@
-# c
-C - Language Practice
+# cpp
+C++ - Language Practice
