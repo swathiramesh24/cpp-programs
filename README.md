@@ -6,7 +6,7 @@ This repository contains my practice programs for learning C++ from the ground u
 - Basics: Variables, loops, and functions.
 - Intermediate: Object-oriented programming, file handling.
 - Advanced: STL, multithreading, and templates.
-- Competitive Programming: Problem-solving techniques and solutions.
+- Simple programs for mini projects
 
 ## How to Use
 1. Clone the repository: https://github.com/swathiramesh24/cpp-programs.git
