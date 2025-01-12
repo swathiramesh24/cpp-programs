@@ -25,3 +25,4 @@ int main(){
 }
 
 //Note: Though different datatypes are stored under the same name, the characteristics are still retained. The variables will take only the value of the datatype.
+//Elements share different memory location
