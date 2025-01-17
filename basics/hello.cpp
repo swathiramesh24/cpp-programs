@@ -4,7 +4,7 @@ int main() //main function
 {
 
   //This prints the word Hello, World
-cout<< "Hello, World" << stdl;
+std::cout << "Hello, World" << std::endl;
   
 return 0; //return function
 }
