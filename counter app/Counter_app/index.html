@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Counter</title>
+  <link rel="icon" href="/Counter_app/logo.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="header-section">
+    <p class="title">Simple Counter App</p>
+  </div>
+
+  <div class="counter">
+
+    <div class="center">
+
+      <button onclick="increment()" class="add">+</button>
+
+      <p class="count">0</p>
+
+      <button onclick="decrement()" class="subtract">-</button>
+
+    </div>
+
+    <div class="bottom-section">
+      <button onclick="reset()" class="reset">Reset</button>
+      
+      <p class="value">Start with a Value:</button>
+
+      <input type="number" class="input-box">
+      <button class="set" onclick="setValue()">Set</button>
+
+    </div>
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
